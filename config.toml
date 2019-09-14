@@ -27,6 +27,11 @@ theme = "aerial"
   link = "https://github.com/thewiseoutlaw"
 
 [[params.social]]
+  medium = "Instagram"
+  icon = "instagram"
+  link = "https://instagram.com/thewiseoutlaw"
+
+[[params.social]]
   medium = "Resume"
   icon = "file-text"
   link = "mark_moses.pdf"
