@@ -28,5 +28,5 @@ theme = "aerial"
 
 [[params.social]]
   medium = "Resume"
-  icon = "file-alt"
+  icon = "file-text"
   link = "mark_moses.pdf"
