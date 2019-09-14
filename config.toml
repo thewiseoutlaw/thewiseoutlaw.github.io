@@ -25,3 +25,8 @@ theme = "aerial"
   medium = "Github"
   icon = "github"
   link = "https://github.com/thewiseoutlaw"
+
+[[params.social]]
+  medium = "File-pdf"
+  icon = "file-pdf"
+  link = "mark_moses.pdf"
