@@ -1,0 +1,27 @@
+languageCode = "en-us"
+title = "Mark Moses"
+baseurl = "http://markmoses.me/"
+theme = "aerial"
+
+[params]
+  name = "Mark Moses"
+  about = "Language Agnostic Principal Software Engineer&nbsp;&bull;&nbsp; Quality Expert &nbsp;&bull;&nbsp; Automation Expert"
+  copyright = "Mark Moses"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/thewiseoutlaw"
+
+[[params.social]]
+  medium = "LinkedIn"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/mark-babumoses-1022839/"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/thewiseoutlaw"
